@@ -1,7 +1,6 @@
-
 **CELL COUNTER**
 
-task:
+
 
 segmentation and classification and counting the cells in bood
 

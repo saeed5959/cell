@@ -5,19 +5,19 @@
  
  ### background image
  
- <img src="background.jpg" width="450" height="150" border="20">
+ <img src="background.jpg" width="650" height="300" border="20">
  
  
  ### a car image
- <img src="car.jpg" width="450" height="150" border="20">
+ <img src="car.jpg" width="650" height="300" border="20">
  
  
  ### if we just crop it and put it in image it seem fake
  
- <img src="fake.jpg" width="450" height="150" border="20">
+ <img src="fake.jpg" width="650" height="300" border="20">
  
  
  ### but with this way it seem real
  
- <img src="real.jpg" width="450" height="150" border="20">
+ <img src="real.jpg" width="650" height="300" border="20">
  
